@@ -1,0 +1,14 @@
+#box1 {
+
+    height: 60px;
+    width: 700px;
+    flex-grow: 500px;
+    background-color: aqua;
+    align-items: center;
+    background-color: aquamarine;
+    border: 4px black;
+    border-radius: 5px ;
+
+
+
+}
